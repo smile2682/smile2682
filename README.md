@@ -12,13 +12,13 @@
 
 ### Hi, I'm Crystal Li  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am an aspiring Junior Full-stack developer open to work. 
+I am an aspiring Junior Full-stack developer open to work 👩‍💻. 
 
-I recently graduated from Lighthouse Labs Web Development Diploma, and I am passionate to learn new techs and explore new opportunities!
+I recently obtained from Lighthouse Labs Web Development Diploma, and I am passionate to learn new techs and explore new opportunities 🤩!
 
-My short term goal is to make contributions in building efficient, accessible, and responsive applications.
+My short term goal is to make contributions in building efficient, accessible, and responsive applications 🎯.
 
-Previously I was a passionate and compassionate mentor for international students for 7 years. 
+Previously I was a passionate and compassionate mentor teaching around 20 subjects for over 1000 international university students for 7 years 👩‍🏫. 
 
 I am also a strong believer, practitioner and advocator of Growth Mindset 🌱 .
 
