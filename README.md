@@ -43,17 +43,17 @@ I am also a strong believer, practitioner and advocator of Growth Mindset 🌱 .
 ![](https://img.shields.io/badge/Rails-F7DF1E?style=for-the-badge&logo=RubyonRails&logoColor=black)
 ![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-43853D?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 ### Github Analytics
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile2682&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile2682&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smile2682&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smile2682&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Visits
 
