@@ -47,13 +47,13 @@ I am also a strong believer, practitioner and advocator of Growth Mindset 🌱 .
 
 
 
-### Github Analytics
+<!-- ### Github Analytics
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile2682&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smile2682&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smile2682&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Profile Visits
 
