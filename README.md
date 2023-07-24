@@ -54,7 +54,3 @@ I am also a strong believer, practitioner and advocator of Growth Mindset 🌱 .
 ### Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smile2682&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) -->
-
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=smile2682.smile2682)
